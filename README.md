@@ -7,6 +7,8 @@ _by Mustafa Waheed_
 [Data Source Link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 
+!(Diagram).[enc_dec_viz.png]
+
 
 
 Conversation Examples
