@@ -4,7 +4,7 @@ _by Mustafa Waheed_
 
 #### This is an end-to-end generative model (closed domain) trained on movie dialouge data.  
 
-[Data Source Link][https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+[Data Source Link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 
 ![Diagram](enc_dec_viz.png)
