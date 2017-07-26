@@ -1,8 +1,10 @@
-#Sequence to Sequence Natural Language Processing Model in Tensorflow
-_by Mustafa Waheed_
+# Sequence to Sequence Natural Language Processing Model in Tensorflow
+_by Mustafa Waheed_  
 
-===========
+
 This is an end-to-end generative model (closed domain) trained on movie dialouge data.
+=========================================================================================  
+
 [Data Source Link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 
@@ -10,11 +12,13 @@ This is an end-to-end generative model (closed domain) trained on movie dialouge
 
 Conversation Examples
 ===========
->> where are you?
-I ' m here .
+>>Do you remember me?  
+Not really .  
 
->>Do you remember me?
-Not really .
+
+>> where are you?  
+I ' m here .  
+
 
 
 
