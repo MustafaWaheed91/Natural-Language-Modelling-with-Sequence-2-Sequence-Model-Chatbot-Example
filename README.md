@@ -1,6 +1,7 @@
 # Sequence to Sequence Natural Language Processing Model in Tensorflow
 _by Mustafa Waheed_  
 
+_based on paper_ : http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
 
 #### This is an end-to-end generative model (closed domain) trained on movie dialouge data.  
 
