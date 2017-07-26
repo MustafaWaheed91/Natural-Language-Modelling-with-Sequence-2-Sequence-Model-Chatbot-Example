@@ -2,8 +2,7 @@
 _by Mustafa Waheed_  
 
 
-This is an end-to-end generative model (closed domain) trained on movie dialouge data.
-=========================================================================================  
+#### This is an end-to-end generative model (closed domain) trained on movie dialouge data.  
 
 [Data Source Link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
@@ -22,7 +21,7 @@ I ' m here .
 
 
 
-Dependencies
+Required Packages  
 ============
 _pytho3.5_  
 _numpy_  
@@ -30,7 +29,7 @@ _scipy_
 _six_  
 _tensorflow version 0.12_  
 
-#### install anyother dependencies that you maybe missing
+##### install anyother dependencies that you maybe missing
 
 
 You can find more info on the version of tensorflow here:  
@@ -38,7 +37,7 @@ You can find more info on the version of tensorflow here:
 
 
 
-Usage
+How to run code
 ===========
 To train this NLP Model, edit the `seq2seq.ini` file so that mode is set to the following  
 (based on Sirajology Youtube Video)
