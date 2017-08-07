@@ -5,6 +5,8 @@ _based on paper_ : http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
 
 #### This is an end-to-end generative model (closed domain) trained on movie dialouge data.  
 
+_Depending on your machine's specs train the model for 3hours and then try testing it_
+
 [Data Source Link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 
