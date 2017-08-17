@@ -1,4 +1,4 @@
-# Sequence to Sequence Natural Language Processing Model in Tensorflow
+# Sequence to Sequence Natural Language Generative Model in Tensorflow
 _by Mustafa Waheed_  
 
 _based on paper_ : http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
